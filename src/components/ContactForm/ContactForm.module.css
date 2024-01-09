@@ -1,0 +1,26 @@
+.form {
+    padding: 20px;
+    border: 1px solid black;
+    max-width: 520px;
+    margin: 20px;
+}
+.formTitle {
+    margin: 0;
+    margin-bottom: 14px;
+
+}
+.formLabel {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 20px;
+
+}
+.formLabelText {
+font-weight: 600;
+font-size: 16px;
+}
+.formInput{
+font-size: 16px;
+
+}
